@@ -1,0 +1,19 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore data/model files
+*.pkl
+*.zip
+*.npy
+*.csv
+*.h5
+*.hdf5
+
+# Ignore virtual environments
+venv/
+regcomplyai-env/
+
