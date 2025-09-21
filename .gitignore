@@ -17,3 +17,5 @@ __pycache__/
 venv/
 regcomplyai-env/
 
+# Ignore .env file containing sensitive information
+.env
